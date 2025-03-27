@@ -21,7 +21,6 @@ assets/
         frame2.jpg
         ...
 
-        Key Features:
 All Animated Elements:
 
 Player, enemies, missiles, explosions with frame animations
